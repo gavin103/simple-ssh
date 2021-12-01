@@ -1,0 +1,11 @@
+{
+  "packages": [
+    "modules/*"
+  ],
+  "command": {
+    "bootstrap": {
+      "hoist": true
+    }
+  },
+  "version": "independent"
+}
